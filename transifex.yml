@@ -1,6 +1,6 @@
 filters:
 - filter_type: file
   file_format: txt
-  source_file: source/tx_test.txt
+  source_file: source/test.txt
   source_language: en
   translation_files_expression: 'Translations/<lang>/'
