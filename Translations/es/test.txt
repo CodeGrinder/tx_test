@@ -2,3 +2,4 @@ Prueba de archivo de texto
 Repositorio transifex
 Configuración de GitHub
 Bienvenido a Transifex
+Prueba de edición
