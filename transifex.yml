@@ -1,6 +1,6 @@
 filters:
 - filter_type: file
-  file_format: txt
-  source_file: source/test.txt
-  source_language: en
+  file_format: ANDROID
+  source_file: source/app_v2_android_stringsxml_en_US.xml
+  source_language: en_US
   translation_files_expression: 'Translations/<lang>/'
